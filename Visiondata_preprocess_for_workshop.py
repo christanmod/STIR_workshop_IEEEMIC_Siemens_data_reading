@@ -1,7 +1,7 @@
 #%%
 #Vision preprocessing script for workshop
 #Authors: Nicole Jurjew, Viet Dao, Zekai Li
-
+# Data file: https://filesender.surf.nl/?s=download&token=7f1c595b-8e60-4e79-a73d-b7b98dfb25ee
 # A phantom dataset and a reconstruction parameter file is provided along with the preprocessing script.
 #%%
 import os
